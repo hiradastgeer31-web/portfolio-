@@ -1,17 +1,18 @@
 # Hi, I'm Hira Dastgeer 👋
 
 **Professional Web Developer | WordPress & Front-End Developer**
+Creating Modern, Responsive & User-Friendly Websites.
 
-I create Modern, Responsive & User-Friendly Websites that help businesses grow.
+### 🌐 My Live Project
+**Roselite LLC** - https://roselitellc.com
+- Fully Responsive Business Website
+- Modern UI / Speed Optimized
 
 ### 🚀 Skills
-- WordPress Development
-- Front-End (HTML, CSS, JavaScript, React)
-- Responsive Design
-- Bug Fixes & Speed Optimization
+- WordPress / Custom Websites
+- Front-End (HTML, CSS, JS, React)
 
-### 📫 Let's Connect
-- 【entity-GitHub¦canonical_name=GitHub】: @hiradastgeer31-web
-- Portfolio: Coming Soon
+### 📫 Links
+- Live Site: https://roselitellc.com
+- GitHub: https://github.com/hiradastgeer31-web
 
-Thanks for visiting my profile!
